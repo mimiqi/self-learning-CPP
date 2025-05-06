@@ -112,6 +112,4 @@ int main(){
     if(index1 == index2){
         cout << "Input3 is equally similar to Input1 and Input2" << endl;
     }
-    
-
 }
